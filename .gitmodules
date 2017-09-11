@@ -1,0 +1,3 @@
+[submodule "multimedia"]
+	path = multimedia
+	url = git@github.com:vladkampov/multimedia-labs.git
